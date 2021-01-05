@@ -1,0 +1,36 @@
+.wrapper {
+    background-color: dimgrey;
+}
+
+h1 {
+    color: lime;
+}
+
+p {
+    font-size: 31px;
+    color: lime;
+}
+
+ul {
+    border: 5px solid lime;
+}
+
+li {
+    border: 10px solid black;
+}
+
+button {
+    border-radius: 50%;
+    background-color: black;
+    text-align: center;
+    color: chartreuse;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+* {
+    border: 5px solid orange;
+}

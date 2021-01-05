@@ -1,0 +1,20 @@
+.card-item {
+    border: 2px solid gray;
+    border-radius: 5%;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.items {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+}
